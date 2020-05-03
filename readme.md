@@ -71,7 +71,7 @@ Attendees of the course should bring a laptop computer with Python (version 3)
 and the Python packages that we will use (such as `numpy`, `pandas`, `sympy`, etc)
 installed. All the required software is free and open source and is available
 on Windows, MacOs, and Linux. Instructions on how to install and configure all
-the software will be provided before the start of the course. We will
+the software are [here](installation_instructions.md). We will
 also provide time during the workshops to ensure that all software is installed
 and configured properly.
 
