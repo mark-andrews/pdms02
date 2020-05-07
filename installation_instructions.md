@@ -165,3 +165,9 @@ $ jupyter notebook
 ```
 
 Doing that should open your browser with a Jupyter notebook session. What this is and how to use it is another matter.
+
+# Additional packages
+
+```
+pip install seaborn plotnine sklearn numba statsmodels rpy2 sympy
+```
