@@ -24,3 +24,11 @@ These are password protected, and you will have been given this password in the 
 * [Session 1: 10am to 12pm](https://vimeo.com/415894829)
 * [Session 2: 1pm to 3pm](https://vimeo.com/415959980)
 * [Session 3: 4pm to 6pm](https://vimeo.com/416029876)
+
+# Day 5
+
+* [Session 1: 10am to 12pm](https://vimeo.com/416299476)
+* [Session 2: 1pm to 3pm](https://vimeo.com/416355914)
+* [Session 3: 4pm to 6pm](https://vimeo.com/416419253)
+
+
