@@ -169,5 +169,5 @@ Doing that should open your browser with a Jupyter notebook session. What this i
 # Additional packages
 
 ```
-pip install seaborn plotnine sklearn numba statsmodels rpy2 sympy
+pip install seaborn plotnine sklearn numba statsmodels rpy2 sympy bs4 lxml nltk sh
 ```
